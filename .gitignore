@@ -1,0 +1,11 @@
+.cache
+.ssh
+docker/
+.Xauthority
+.bash_history
+.bash_logout
+.bashrc
+.mysql_history
+.profile
+.sudo_as_admin_successful
+.viminfo
