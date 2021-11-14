@@ -1,4 +1,4 @@
-# Cloud Computing
+# Configuration d'un environnement docker nginx, nextcloud, phpMyAdmin et MySQL
 
 ## TP Docker 
 
