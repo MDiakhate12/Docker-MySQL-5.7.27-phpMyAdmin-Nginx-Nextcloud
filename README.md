@@ -1,7 +1,5 @@
 # Configuration d'un environnement docker nginx, nextcloud, phpMyAdmin et MySQL
 
-## TP Docker 
-
 La machine contient les scripts suivants:
 1.	run_dockmysql.sh: crée les conteneurs **dockmysql** et **dockMyAdm**, le **volume** et la base de donnée **BASE_A**
 2.	run_dockbase.sh: crée les conteneurs **dockbase** et **dockMyAdm**, le **volume** et le réseau **interne**
